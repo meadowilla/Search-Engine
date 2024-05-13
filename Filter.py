@@ -23,6 +23,5 @@ types_set, source_set = categorize_data(filename)
 print(types_set)
 print(source_set)
 
-# This code is runable, but what is its' advantage? Should it help filtering function really?
 
 
